@@ -7,6 +7,7 @@ import os
 from pathlib import Path
 
 # One line, 178 characters, within the 240 character limit.
+# Written with no trailing newline; deterministic, no network.
 LINE = "My grandfather, 78, practiced one Chopin prelude for a year on a borrowed piano; last Sunday he played it through without stopping, and the room stayed quiet after the last note."
 
 
